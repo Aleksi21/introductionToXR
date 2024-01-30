@@ -689,6 +689,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 7.5}
   m_SizeDelta: {x: 1000, y: 1000}
   m_Pivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
 --- !u!1 &329805505 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 85a03f336dd07aa4e9df25af1af8ed9c,
@@ -722,6 +723,8 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 3.6800933, y: 7.345771, z: 0.517295}
   m_Center: {x: -0.01698786, y: 2.0775247, z: 0.000014930967}
+=======
+>>>>>>> 6708da4 (hw1Completed)
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -965,6 +968,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+<<<<<<< HEAD
 --- !u!1001 &340624971
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1211,6 +1215,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 428515786}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> 6708da4 (hw1Completed)
 --- !u!1 &360002516
 GameObject:
   m_ObjectHideFlags: 0
@@ -1807,6 +1813,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &428515785 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -1827928219432720515, guid: 85a03f336dd07aa4e9df25af1af8ed9c,
@@ -1834,6 +1841,8 @@ MonoBehaviour:
   magnifyingGlass: {fileID: 329805508}
   magnifyingCamera: {fileID: 350172971}
   player: {fileID: 1058339462}
+=======
+>>>>>>> 6708da4 (hw1Completed)
 --- !u!1 &446473290
 GameObject:
   m_ObjectHideFlags: 0
@@ -1846,8 +1855,11 @@ GameObject:
   - component: {fileID: 446473294}
   - component: {fileID: 446473293}
   - component: {fileID: 446473292}
+<<<<<<< HEAD
   - component: {fileID: 446473295}
   - component: {fileID: 446473296}
+=======
+>>>>>>> 6708da4 (hw1Completed)
   m_Layer: 0
   m_Name: handCubeRight
   m_TagString: Untagged
@@ -1885,7 +1897,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> 6708da4 (hw1Completed)
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -1941,6 +1957,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 446473290}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!54 &446473295
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1983,6 +2000,8 @@ MonoBehaviour:
   nearObjects: []
   grabbedObject: {fileID: 0}
   action: {fileID: -5194266436686895582, guid: e0ca4504471ca124088e1e2cfe6804ae, type: 3}
+=======
+>>>>>>> 6708da4 (hw1Completed)
 --- !u!1 &693127174
 GameObject:
   m_ObjectHideFlags: 0
@@ -2209,6 +2228,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   action: {fileID: 11711766586467970, guid: e0ca4504471ca124088e1e2cfe6804ae, type: 3}
+<<<<<<< HEAD
 --- !u!1 &727117598
 GameObject:
   m_ObjectHideFlags: 0
@@ -2314,6 +2334,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> 6708da4 (hw1Completed)
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -2553,7 +2575,11 @@ Camera:
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
+<<<<<<< HEAD
     m_Bits: 55
+=======
+    m_Bits: 4294967295
+>>>>>>> 6708da4 (hw1Completed)
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -3003,7 +3029,11 @@ GameObject:
   - component: {fileID: 1412709708}
   - component: {fileID: 1412709712}
   m_Layer: 0
+<<<<<<< HEAD
   m_Name: Orbit
+=======
+  m_Name: Sphere
+>>>>>>> 6708da4 (hw1Completed)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3322,6 +3352,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lights: {fileID: 1651215482}
   action: {fileID: -1644001223835636349, guid: e0ca4504471ca124088e1e2cfe6804ae, type: 3}
+<<<<<<< HEAD
 --- !u!1 &1736590079
 GameObject:
   m_ObjectHideFlags: 0
@@ -3421,6 +3452,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1736590079}
   m_Mesh: {fileID: 8788592981329588991, guid: 85a03f336dd07aa4e9df25af1af8ed9c, type: 3}
+=======
+>>>>>>> 6708da4 (hw1Completed)
 --- !u!1 &1758245395
 GameObject:
   m_ObjectHideFlags: 0
@@ -3560,6 +3593,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1931307002}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!1 &2006357103
 GameObject:
   m_ObjectHideFlags: 0
@@ -3666,6 +3700,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
+=======
+>>>>>>> 6708da4 (hw1Completed)
 --- !u!1 &2048763353
 GameObject:
   m_ObjectHideFlags: 0
@@ -3678,8 +3714,11 @@ GameObject:
   - component: {fileID: 2048763357}
   - component: {fileID: 2048763356}
   - component: {fileID: 2048763355}
+<<<<<<< HEAD
   - component: {fileID: 2048763358}
   - component: {fileID: 2048763359}
+=======
+>>>>>>> 6708da4 (hw1Completed)
   m_Layer: 0
   m_Name: handCubeLeft
   m_TagString: Untagged
@@ -3717,7 +3756,11 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
+<<<<<<< HEAD
   m_IsTrigger: 1
+=======
+  m_IsTrigger: 0
+>>>>>>> 6708da4 (hw1Completed)
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -3773,6 +3816,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2048763353}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 --- !u!54 &2048763358
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3815,6 +3859,8 @@ MonoBehaviour:
   nearObjects: []
   grabbedObject: {fileID: 0}
   action: {fileID: -1289947363739713011, guid: e0ca4504471ca124088e1e2cfe6804ae, type: 3}
+=======
+>>>>>>> 6708da4 (hw1Completed)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -3825,7 +3871,10 @@ SceneRoots:
   - {fileID: 331284141}
   - {fileID: 693127178}
   - {fileID: 1112095379}
+<<<<<<< HEAD
   - {fileID: 2006357107}
+=======
+>>>>>>> 6708da4 (hw1Completed)
   - {fileID: 1167060255}
   - {fileID: 1097820022}
   - {fileID: 843422560}
@@ -3835,5 +3884,8 @@ SceneRoots:
   - {fileID: 243560729}
   - {fileID: 416592854}
   - {fileID: 1271073627}
+<<<<<<< HEAD
   - {fileID: 727117602}
   - {fileID: 340624971}
+=======
+>>>>>>> 6708da4 (hw1Completed)
