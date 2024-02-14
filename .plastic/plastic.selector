@@ -1,0 +1,4 @@
+repository "homework_1@Ameno21@cloud"
+  path "/"
+    br "/main"
+    co "/main"
