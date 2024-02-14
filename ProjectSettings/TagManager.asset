@@ -4,11 +4,15 @@
 TagManager:
   serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   tags:
   - grabbable
 =======
   tags: []
 >>>>>>> 6708da4 (hw1Completed)
+=======
+  tags: []
+>>>>>>> 6708da4976af43267d9bc8919338c04a4b9859cd
   layers:
   - Default
   - TransparentFX
@@ -17,10 +21,14 @@ TagManager:
   - Water
   - UI
 <<<<<<< HEAD
+<<<<<<< HEAD
   - HiddenLayer
 =======
   - 
 >>>>>>> 6708da4 (hw1Completed)
+=======
+  - 
+>>>>>>> 6708da4976af43267d9bc8919338c04a4b9859cd
   - 
   - 
   - 
